@@ -23,7 +23,7 @@ npm install svelte-loading-animation
 First you need to import the desired animation(s) on the script section
 ```js
 // ...
-	import { LoadRing, LoadRipple } from 'sveltip';
+	import { LoadRing, LoadRipple } from 'svelte-loading-animation';
 // ...
 ```
 and then use it on your application. Here's some example code:
